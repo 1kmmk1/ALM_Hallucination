@@ -20,7 +20,7 @@ Existing discriminative evaluation methods are **insufficient**. Models achieve 
 > *Congruent*: "Is there a man crying and a woman laughing?" → Correct answer: **Yes**  
 > *Incongruent*: "Is there a man laughing and a woman crying?" → Correct answer: **No**
 
-This reveals that models only check for **co-existence** of sounds (and "Yes-bias"), not their correct binding.
+This reveals that models only check for **co-existence** of sounds (and exhibit "Yes" bias), not their correct binding.
 
 ## Dataset
 
