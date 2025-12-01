@@ -24,7 +24,7 @@ This reveals that models only check for **co-existence** of sounds, not their co
 
 ## Dataset
 
-📦 **Synthetic Dataset**: [Download Link]([YOUR_LINK_HERE](https://drive.google.com/file/d/1ClFBMZyeTalhqqYcawuehr6YumY8rz7G/view?usp=sharing))
+📦 **Synthetic Dataset**: [Download Link](https://drive.google.com/file/d/1ClFBMZyeTalhqqYcawuehr6YumY8rz7G/view?usp=sharing)
 
 - 376 high-quality synthetic audio samples
 - Controlled object-attribute pairs (e.g., Man/Woman × Crying/Laughing)
